@@ -29,13 +29,6 @@ SLOT 4 NODEJS/
 
 ## 📄 Nội dung các file
 
-### `.env` – Biến môi trường
-
-```env
-MONGO_URI=mongodb://localhost:27017/Slot4NodeJS
-REDIS_URL=redis://localhost:6379
-```
-
 ### `db.js` – Kết nối MongoDB
 
 ```js
